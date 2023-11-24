@@ -83,4 +83,3 @@ Open_Serial(int port_base, int baud, int configuration);
 
 Close_Serial(int port_base);
 
-

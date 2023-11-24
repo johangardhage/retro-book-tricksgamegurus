@@ -40,4 +40,3 @@ _setvideomode(_DEFAULTMODE);
 
 
 
-

@@ -129,4 +129,3 @@ unsigned char Get_Pixel(int x,int y);
 unsigned char Get_Pixel_D(int x,int y);
 
 
-

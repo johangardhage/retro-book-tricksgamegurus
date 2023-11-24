@@ -16,4 +16,3 @@ link /ST:16384 /CO %1,,,graphics.lib+mylib.lib,,
 
 
 
-

@@ -205,4 +205,3 @@ _setvideomode(_DEFAULTMODE);
 
 } // end main
 
-

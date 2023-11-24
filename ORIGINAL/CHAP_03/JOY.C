@@ -313,4 +313,3 @@ printf("\nmax x=%u, max y=%u,min x=%u,min y=%u,cx=%u,cy=%u",joy_1_max_x,
 } // end main
 
 
-
