@@ -10,6 +10,10 @@ rule cc
 #  command = $cc $in $windows -o $out.
   description = Building executable $out
 
-build $builddir/demo: cc $srcdir/demo.cpp
+build $builddir/ray: cc $srcdir/ray.cpp
+build $builddir/warlock: cc $srcdir/warlock.cpp
+build $builddir/warlock2: cc $srcdir/warlock2.cpp
 
-build demo: phony $builddir/demo
+build ray: phony $builddir/ray
+build warlock: phony $builddir/warlock
+build warlock2: phony $builddir/warlock2
